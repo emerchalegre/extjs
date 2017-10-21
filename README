@@ -1,0 +1,21 @@
+# ExtJs 6.5 - Mininal Package
+
+This package contains the library of the ExtJs 6.5 modern style.
+
+Only essentials were made available.
+
+## Install
+
+npm install --save gzextjs
+
+## Using
+
+Put in your html file this lines:
+
+<link rel="stylesheet" type="text/css" href="./node_modules/gzextjs/build/modern/theme-material/resources/theme-material-all.css"/>
+<link rel="stylesheet" type="text/css" href="./node_modules/gzextjs/build/packages/charts/modern/modern-material/resources/charts-all.css" />
+
+<script src="./node_modules/gzextjs/build/ext-modern-all-debug.js"></script>
+<script src="./node_modules/gzextjs/build/packages/charts/modern/charts.js"></script>
+
+Enjoy!!!

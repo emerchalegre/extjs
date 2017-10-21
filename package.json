@@ -1,0 +1,14 @@
+{
+  "name": "gzextjs",
+  "version": "1.0.1",
+  "description": "Modern Extjs 6.5 Version Minimal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extjs"
+  ],
+  "author": "Emerson Chalegre <emerchalegre@gmail.com> (https://github.com/emerchalegre/)",
+  "license": "MIT"
+}
